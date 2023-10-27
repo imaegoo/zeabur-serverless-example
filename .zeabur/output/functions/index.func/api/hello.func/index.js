@@ -1,7 +1,7 @@
 module.exports = (req, res) => {
   const { name = "friend" } = req.query;
 
-  console.log(".zeabur/output/functions/index.func/index.js");
+  console.log(".zeabur/output/functions/index.func/api/hello.func/index.js");
   console.log(req);
 
   const text =
